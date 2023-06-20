@@ -21,4 +21,5 @@ RUN apt update && \
     ethtool \
     iperf3 \
     ipcalc \
+    tmux \
     && rm -rf /var/lib/apt/lists/*
