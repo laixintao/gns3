@@ -1,3 +1,3 @@
-docker.gns3ubuntu:
-	docker build -f gns3ubuntu.Dockerfile . -t laixintao/gns3ubuntu:20230613
-	docker push laixintao/gns3ubuntu:20230613
+docker.docker-ubuntu-networking:
+	docker build -f docker-ubuntu-networking.Dockerfile . -t laixintao/docker-ubuntu-networking:20230701
+	docker push laixintao/docker-ubuntu-networking:20230701

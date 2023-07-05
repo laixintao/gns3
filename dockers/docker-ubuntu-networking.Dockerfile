@@ -22,4 +22,5 @@ RUN apt update && \
     iperf3 \
     ipcalc \
     tmux \
+    wget \
     && rm -rf /var/lib/apt/lists/*
