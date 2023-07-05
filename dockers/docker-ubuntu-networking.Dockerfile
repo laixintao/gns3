@@ -1,5 +1,7 @@
 From ubuntu:22.04
 
+LABEL org.opencontainers.image.authors="laixintaoo@gmail.com"
+
 ENV DEBIAN_FRONTEND=noninteractive
 
 RUN apt update && \
