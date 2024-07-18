@@ -10,7 +10,7 @@ RUN apt update && \
     iproute2 \
     curl \
     hping3 \
-    fping \
+    arping \
     iputils-ping \
     iptables \
     nmap \
